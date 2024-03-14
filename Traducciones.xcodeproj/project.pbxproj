@@ -8,14 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578402BA317D0007B3FD1 /* Localizable.stringsdict */; };
-		1F193C812BA3532900C754E1 /* es.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C802BA3532900C754E1 /* es.stringsdict */; };
-		1F193C832BA3532D00C754E1 /* en.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C822BA3532D00C754E1 /* en.stringsdict */; };
-		1F193C852BA3533100C754E1 /* ca.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C842BA3533100C754E1 /* ca.stringsdict */; };
-		1F193C872BA3533400C754E1 /* eu-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C862BA3533400C754E1 /* eu-ES.stringsdict */; };
-		1F193C892BA3533700C754E1 /* gl-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C882BA3533700C754E1 /* gl-ES.stringsdict */; };
-		1F193C8B2BA3533B00C754E1 /* it.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8A2BA3533B00C754E1 /* it.stringsdict */; };
-		1F193C8D2BA3533E00C754E1 /* pt-BR.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8C2BA3533E00C754E1 /* pt-BR.stringsdict */; };
-		1F193C8F2BA3534000C754E1 /* pt-PT.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8E2BA3534000C754E1 /* pt-PT.stringsdict */; };
 		1FA578392BA3178C007B3FD1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA578382BA3178C007B3FD1 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -156,14 +148,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */,
-				1F193C812BA3532900C754E1 /* es.stringsdict in Resources */,
-				1F193C832BA3532D00C754E1 /* en.stringsdict in Resources */,
-				1F193C852BA3533100C754E1 /* ca.stringsdict in Resources */,
-				1F193C872BA3533400C754E1 /* eu-ES.stringsdict in Resources */,
-				1F193C892BA3533700C754E1 /* gl-ES.stringsdict in Resources */,
-				1F193C8B2BA3533B00C754E1 /* it.stringsdict in Resources */,
-				1F193C8D2BA3533E00C754E1 /* pt-BR.stringsdict in Resources */,
-				1F193C8F2BA3534000C754E1 /* pt-PT.stringsdict in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
