@@ -7,7 +7,7 @@
 
 import Foundation
 
-let workingDirectory = "/Users/trainingym/Documents/Projects/Traducciones"
+let workingDirectory = "/Users/trainingym/Documents/Projects/Traducciones" //Ruta del directorio del proyecto
 let scriptPath = "FileManagerScript.sh"
 
 let task = Process()
