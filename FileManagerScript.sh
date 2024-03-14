@@ -11,7 +11,7 @@ archivos_origen=("es" "en" "ca" "eu-ES" "gl-ES" "it" "pt-BR" "pt-PT")
 
 # Iterar sobre los archivos de origen y destinos
 for (( i=0; i<${#archivos_origen[@]}; i++ )); do
-    archivo_origen="${archivos_origen[$i]}.lproj/${archivos_origen[$i]}.stringsdict"
+    archivo_origen="${archivos_origen[$i]}.stringsdict"
     destino="${archivos_origen[$i]}.lproj/Localizable.stringsdict"
     
     # Verificar si el archivo origen existe

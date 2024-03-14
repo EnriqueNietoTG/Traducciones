@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578402BA317D0007B3FD1 /* Localizable.stringsdict */; };
-		1F193C782BA3522A00C754E1 /* es.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578492BA321CE007B3FD1 /* es.stringsdict */; };
-		1F193C792BA3522A00C754E1 /* en.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784F2BA32216007B3FD1 /* en.stringsdict */; };
-		1F193C7A2BA3522A00C754E1 /* ca.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784B2BA321E4007B3FD1 /* ca.stringsdict */; };
-		1F193C7B2BA3522A00C754E1 /* eu-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578572BA32251007B3FD1 /* eu-ES.stringsdict */; };
-		1F193C7C2BA3522A00C754E1 /* gl-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578552BA32238007B3FD1 /* gl-ES.stringsdict */; };
-		1F193C7D2BA3522A00C754E1 /* it.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784D2BA321F4007B3FD1 /* it.stringsdict */; };
-		1F193C7E2BA3522A00C754E1 /* pt-BR.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578532BA3222D007B3FD1 /* pt-BR.stringsdict */; };
-		1F193C7F2BA3522A00C754E1 /* pt-PT.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578512BA32223007B3FD1 /* pt-PT.stringsdict */; };
+		1F193C812BA3532900C754E1 /* es.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C802BA3532900C754E1 /* es.stringsdict */; };
+		1F193C832BA3532D00C754E1 /* en.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C822BA3532D00C754E1 /* en.stringsdict */; };
+		1F193C852BA3533100C754E1 /* ca.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C842BA3533100C754E1 /* ca.stringsdict */; };
+		1F193C872BA3533400C754E1 /* eu-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C862BA3533400C754E1 /* eu-ES.stringsdict */; };
+		1F193C892BA3533700C754E1 /* gl-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C882BA3533700C754E1 /* gl-ES.stringsdict */; };
+		1F193C8B2BA3533B00C754E1 /* it.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8A2BA3533B00C754E1 /* it.stringsdict */; };
+		1F193C8D2BA3533E00C754E1 /* pt-BR.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8C2BA3533E00C754E1 /* pt-BR.stringsdict */; };
+		1F193C8F2BA3534000C754E1 /* pt-PT.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1F193C8E2BA3534000C754E1 /* pt-PT.stringsdict */; };
 		1FA578392BA3178C007B3FD1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA578382BA3178C007B3FD1 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +32,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1F193C802BA3532900C754E1 /* es.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = es.stringsdict; sourceTree = "<group>"; };
+		1F193C822BA3532D00C754E1 /* en.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = en.stringsdict; sourceTree = "<group>"; };
+		1F193C842BA3533100C754E1 /* ca.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = ca.stringsdict; sourceTree = "<group>"; };
+		1F193C862BA3533400C754E1 /* eu-ES.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = "eu-ES.stringsdict"; sourceTree = "<group>"; };
+		1F193C882BA3533700C754E1 /* gl-ES.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = "gl-ES.stringsdict"; sourceTree = "<group>"; };
+		1F193C8A2BA3533B00C754E1 /* it.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = it.stringsdict; sourceTree = "<group>"; };
+		1F193C8C2BA3533E00C754E1 /* pt-BR.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = "pt-BR.stringsdict"; sourceTree = "<group>"; };
+		1F193C8E2BA3534000C754E1 /* pt-PT.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = "pt-PT.stringsdict"; sourceTree = "<group>"; };
 		1FA578352BA3178C007B3FD1 /* Traducciones */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Traducciones; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FA578382BA3178C007B3FD1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1FA5783F2BA317C0007B3FD1 /* FileManagerScript.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = FileManagerScript.sh; sourceTree = "<group>"; };
@@ -43,14 +51,6 @@
 		1FA578462BA3217A007B3FD1 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "pt-PT"; path = "pt-PT.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		1FA578472BA3218B007B3FD1 /* gl-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "gl-ES"; path = "gl-ES.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		1FA578482BA321B8007B3FD1 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = es; path = es.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
-		1FA578502BA32216007B3FD1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = en.lproj/en.stringsdict; sourceTree = "<group>"; };
-		1FA578592BA3228B007B3FD1 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = es; path = es.lproj/es.stringsdict; sourceTree = "<group>"; };
-		1FA5785A2BA32292007B3FD1 /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ca; path = ca.lproj/ca.stringsdict; sourceTree = "<group>"; };
-		1FA5785B2BA32298007B3FD1 /* eu-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "eu-ES"; path = "eu-ES.lproj/eu-ES.stringsdict"; sourceTree = "<group>"; };
-		1FA5785C2BA3229C007B3FD1 /* gl-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "gl-ES"; path = "gl-ES.lproj/gl-ES.stringsdict"; sourceTree = "<group>"; };
-		1FA5785D2BA322A4007B3FD1 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = it; path = it.lproj/it.stringsdict; sourceTree = "<group>"; };
-		1FA5785E2BA322AF007B3FD1 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "pt-BR"; path = "pt-BR.lproj/pt-BR.stringsdict"; sourceTree = "<group>"; };
-		1FA5785F2BA322B3007B3FD1 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "pt-PT"; path = "pt-PT.lproj/pt-PT.stringsdict"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,14 +68,14 @@
 			isa = PBXGroup;
 			children = (
 				1FA578402BA317D0007B3FD1 /* Localizable.stringsdict */,
-				1FA578492BA321CE007B3FD1 /* es.stringsdict */,
-				1FA5784F2BA32216007B3FD1 /* en.stringsdict */,
-				1FA5784B2BA321E4007B3FD1 /* ca.stringsdict */,
-				1FA578572BA32251007B3FD1 /* eu-ES.stringsdict */,
-				1FA578552BA32238007B3FD1 /* gl-ES.stringsdict */,
-				1FA5784D2BA321F4007B3FD1 /* it.stringsdict */,
-				1FA578532BA3222D007B3FD1 /* pt-BR.stringsdict */,
-				1FA578512BA32223007B3FD1 /* pt-PT.stringsdict */,
+				1F193C802BA3532900C754E1 /* es.stringsdict */,
+				1F193C822BA3532D00C754E1 /* en.stringsdict */,
+				1F193C842BA3533100C754E1 /* ca.stringsdict */,
+				1F193C862BA3533400C754E1 /* eu-ES.stringsdict */,
+				1F193C882BA3533700C754E1 /* gl-ES.stringsdict */,
+				1F193C8A2BA3533B00C754E1 /* it.stringsdict */,
+				1F193C8C2BA3533E00C754E1 /* pt-BR.stringsdict */,
+				1F193C8E2BA3534000C754E1 /* pt-PT.stringsdict */,
 				1FA5783F2BA317C0007B3FD1 /* FileManagerScript.sh */,
 				1FA578382BA3178C007B3FD1 /* main.swift */,
 				1FA578362BA3178C007B3FD1 /* Products */,
@@ -156,14 +156,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */,
-				1F193C782BA3522A00C754E1 /* es.stringsdict in Resources */,
-				1F193C792BA3522A00C754E1 /* en.stringsdict in Resources */,
-				1F193C7A2BA3522A00C754E1 /* ca.stringsdict in Resources */,
-				1F193C7B2BA3522A00C754E1 /* eu-ES.stringsdict in Resources */,
-				1F193C7C2BA3522A00C754E1 /* gl-ES.stringsdict in Resources */,
-				1F193C7D2BA3522A00C754E1 /* it.stringsdict in Resources */,
-				1F193C7E2BA3522A00C754E1 /* pt-BR.stringsdict in Resources */,
-				1F193C7F2BA3522A00C754E1 /* pt-PT.stringsdict in Resources */,
+				1F193C812BA3532900C754E1 /* es.stringsdict in Resources */,
+				1F193C832BA3532D00C754E1 /* en.stringsdict in Resources */,
+				1F193C852BA3533100C754E1 /* ca.stringsdict in Resources */,
+				1F193C872BA3533400C754E1 /* eu-ES.stringsdict in Resources */,
+				1F193C892BA3533700C754E1 /* gl-ES.stringsdict in Resources */,
+				1F193C8B2BA3533B00C754E1 /* it.stringsdict in Resources */,
+				1F193C8D2BA3533E00C754E1 /* pt-BR.stringsdict in Resources */,
+				1F193C8F2BA3534000C754E1 /* pt-PT.stringsdict in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,70 +194,6 @@
 				1FA578482BA321B8007B3FD1 /* es */,
 			);
 			name = Localizable.stringsdict;
-			sourceTree = "<group>";
-		};
-		1FA578492BA321CE007B3FD1 /* es.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA578592BA3228B007B3FD1 /* es */,
-			);
-			name = es.stringsdict;
-			sourceTree = "<group>";
-		};
-		1FA5784B2BA321E4007B3FD1 /* ca.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785A2BA32292007B3FD1 /* ca */,
-			);
-			name = ca.stringsdict;
-			sourceTree = "<group>";
-		};
-		1FA5784D2BA321F4007B3FD1 /* it.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785D2BA322A4007B3FD1 /* it */,
-			);
-			name = it.stringsdict;
-			sourceTree = "<group>";
-		};
-		1FA5784F2BA32216007B3FD1 /* en.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA578502BA32216007B3FD1 /* en */,
-			);
-			name = en.stringsdict;
-			sourceTree = "<group>";
-		};
-		1FA578512BA32223007B3FD1 /* pt-PT.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785F2BA322B3007B3FD1 /* pt-PT */,
-			);
-			name = "pt-PT.stringsdict";
-			sourceTree = "<group>";
-		};
-		1FA578532BA3222D007B3FD1 /* pt-BR.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785E2BA322AF007B3FD1 /* pt-BR */,
-			);
-			name = "pt-BR.stringsdict";
-			sourceTree = "<group>";
-		};
-		1FA578552BA32238007B3FD1 /* gl-ES.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785C2BA3229C007B3FD1 /* gl-ES */,
-			);
-			name = "gl-ES.stringsdict";
-			sourceTree = "<group>";
-		};
-		1FA578572BA32251007B3FD1 /* eu-ES.stringsdict */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1FA5785B2BA32298007B3FD1 /* eu-ES */,
-			);
-			name = "eu-ES.stringsdict";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
