@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578402BA317D0007B3FD1 /* Localizable.stringsdict */; };
+		1F193C782BA3522A00C754E1 /* es.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578492BA321CE007B3FD1 /* es.stringsdict */; };
+		1F193C792BA3522A00C754E1 /* en.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784F2BA32216007B3FD1 /* en.stringsdict */; };
+		1F193C7A2BA3522A00C754E1 /* ca.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784B2BA321E4007B3FD1 /* ca.stringsdict */; };
+		1F193C7B2BA3522A00C754E1 /* eu-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578572BA32251007B3FD1 /* eu-ES.stringsdict */; };
+		1F193C7C2BA3522A00C754E1 /* gl-ES.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578552BA32238007B3FD1 /* gl-ES.stringsdict */; };
+		1F193C7D2BA3522A00C754E1 /* it.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA5784D2BA321F4007B3FD1 /* it.stringsdict */; };
+		1F193C7E2BA3522A00C754E1 /* pt-BR.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578532BA3222D007B3FD1 /* pt-BR.stringsdict */; };
+		1F193C7F2BA3522A00C754E1 /* pt-PT.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 1FA578512BA32223007B3FD1 /* pt-PT.stringsdict */; };
 		1FA578392BA3178C007B3FD1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA578382BA3178C007B3FD1 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -91,6 +100,7 @@
 				1FA578312BA3178C007B3FD1 /* Sources */,
 				1FA578322BA3178C007B3FD1 /* Frameworks */,
 				1FA578332BA3178C007B3FD1 /* CopyFiles */,
+				1F193C762BA3521C00C754E1 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -139,6 +149,25 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1F193C762BA3521C00C754E1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F193C772BA3522A00C754E1 /* Localizable.stringsdict in Resources */,
+				1F193C782BA3522A00C754E1 /* es.stringsdict in Resources */,
+				1F193C792BA3522A00C754E1 /* en.stringsdict in Resources */,
+				1F193C7A2BA3522A00C754E1 /* ca.stringsdict in Resources */,
+				1F193C7B2BA3522A00C754E1 /* eu-ES.stringsdict in Resources */,
+				1F193C7C2BA3522A00C754E1 /* gl-ES.stringsdict in Resources */,
+				1F193C7D2BA3522A00C754E1 /* it.stringsdict in Resources */,
+				1F193C7E2BA3522A00C754E1 /* pt-BR.stringsdict in Resources */,
+				1F193C7F2BA3522A00C754E1 /* pt-PT.stringsdict in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1FA578312BA3178C007B3FD1 /* Sources */ = {
@@ -359,6 +388,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -368,6 +398,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
