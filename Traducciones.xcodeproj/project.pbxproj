@@ -32,6 +32,8 @@
 		1FA578462BA3217A007B3FD1 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "pt-PT"; path = "pt-PT.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		1FA578472BA3218B007B3FD1 /* gl-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "gl-ES"; path = "gl-ES.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		1FA578482BA321B8007B3FD1 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = es; path = es.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		1FB563B42C25625E009AC26C /* es-AR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "es-AR"; path = "es-AR.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
+		1FB563B52C25628F009AC26C /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "es-MX"; path = "es-MX.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,8 @@
 				"pt-PT",
 				"gl-ES",
 				es,
+				"es-AR",
+				"es-MX",
 			);
 			mainGroup = 1FA5782C2BA3178C007B3FD1;
 			productRefGroup = 1FA578362BA3178C007B3FD1 /* Products */;
@@ -154,6 +158,8 @@
 				1FA578462BA3217A007B3FD1 /* pt-PT */,
 				1FA578472BA3218B007B3FD1 /* gl-ES */,
 				1FA578482BA321B8007B3FD1 /* es */,
+				1FB563B42C25625E009AC26C /* es-AR */,
+				1FB563B52C25628F009AC26C /* es-MX */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";
